@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mini Omegle</title>
+</head>
+<body>
+  <video id="localVideo" autoplay playsinline muted></video>
+  <video id="remoteVideo" autoplay playsinline></video>
+  <button id="startBtn">Start</button>
+  <script src="client.js"></script>
+</body>
+</html>
